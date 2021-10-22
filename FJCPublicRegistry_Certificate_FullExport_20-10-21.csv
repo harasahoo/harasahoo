@@ -1,4 +1,4 @@
-CretificateNumber,EntityName, TradeName, ABN, Status, IssueDate, ExpiryDate
+CertificateNumber,EntityName, TradeName, ABN, Status, IssueDate, ExpiryDate
 a030l000009CIpU,FJC Generic Account,,,Issued,05/09/2021,04/09/2023
 FJC-210906-003,FJC Generic Account,,,Issued,06/09/2021,05/09/2023
 FJC-210905-003,FJC Generic Account,,,Issued,05/09/2021,04/09/2023
